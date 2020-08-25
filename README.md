@@ -3,15 +3,15 @@
 <p align="center"><strong>O que é Cypress?</strong></p>
 <p align="center">Cypress é uma ferramenta para testes de aplicações em múltiplos níveis. Veja isso na prática</p>
 
-<h2 align="center"><a href="https://linktr.ee/agilizei">Agilizei</a></h2>
+<h2 align="center"><a href="https://linktr.ee/agilizei">Acompanhe o Agilizei ⚡️ </a></h2>
 
 # Aplicação 
 
-<!-- <p align="center"><img src="pair_testing_02.png" width="90%"/></p> -->
+Neste projeto, estamos utilizando a aplicação *Proffy* desenvolvida da NLW #02 da RocketSeat.
 
 # Arquitetura
 
-<!-- <p align="center"><img src="pair_testing_02.png" width="90%"/></p> -->
+<p align="center"><img src="arquitetura.png" width="90%"/></p>
 
 # Níveis de testes
 
